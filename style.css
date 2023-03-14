@@ -26,6 +26,8 @@ section::before {
     color: white;
 }
 
+
+
 .navbar {
     background: rgb(105,105,105);
     background: linear-gradient(158deg, rgba(105,105,105,1) 0%, rgba(31,33,33,1) 0%, rgba(124,122,122,0.26094187675070024) 100%);
@@ -35,6 +37,17 @@ section::before {
 .nav-link {
     color: white;
 }
+
+#bg1-1 {
+    background-image: url("images/BG1.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    opacity: 1;
+
+}
+
 
 .home h1 {
     font-size: 72px;
