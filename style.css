@@ -39,11 +39,9 @@ section::before {
 }
 
 .about img {
-    width: 50%;
+    width: 100%;
     align-content:center ;
-
 }
-
 
 .home h1 {
     font-size: 72px;
